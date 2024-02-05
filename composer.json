@@ -25,6 +25,5 @@
             "PayPal": "lib/"
         }
     },
-    ,
     "minimum-stability": "dev"
 }
