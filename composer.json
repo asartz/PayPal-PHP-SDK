@@ -24,5 +24,7 @@
         "psr-0": {
             "PayPal": "lib/"
         }
-    }
+    },
+    ,
+    "minimum-stability": "dev"
 }
